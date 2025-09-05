@@ -83,10 +83,12 @@ The following Python libraries are required:
 ### Install dependencies
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
 
 ### Run the notebook
 ```bash
 run jupyter notebook nutrition_data.ipynb
+```
 
 ---
 
